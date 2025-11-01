@@ -8,6 +8,6 @@ To ensure robustness, the plant is modeled as a linear system with intentional d
 A single button was implemented as a system interrupt to halt the entire control process. This allows the feedback loop to be observed in an open-loop state. Future iterations could expand this functionality, allowing multiple button presses to individually suspend subsystems or to accelerate the process by introducing a derivative constant, though this would require significant additional modeling effort. 
 ------ ------- -------- ------------ ------------- ------- ------ ---------- ---------- ------------- ---------- ---------- ------ ----
 ### Notes: 
-During the simulation, it's not visible the changes taken part because the time is not envolved and
+During the simulation, it's not visible the changes taken part because the time is not envolved. It's not visible how the led turns on when darkness comes and the Fan turns on when the heat comes. However I will post a video with a real prototype as seen in the picture. 
 
  
