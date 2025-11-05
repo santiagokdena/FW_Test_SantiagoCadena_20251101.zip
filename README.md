@@ -13,3 +13,5 @@ A single button was implemented as a system interrupt to halt the entire control
 - The simulation is found here: https://www.tinkercad.com/things/ic2dglbDgPd/editel?returnTo=%2Fdashboard&sharecode=0zq3XsQe0SSdgSE0Qm9M9Cq1sQz4DY5TgFKvq8320io
 
 - [ESQUEMATIC.png](https://postimg.cc/PLx9rkvK)
+
+- Project's PDF: https://www.overleaf.com/project/69057ca40d29b8df711bec20 where the the logic is explained.
